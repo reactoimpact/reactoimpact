@@ -8,9 +8,9 @@ You can view my blog too see what I'm currently working on. [reacto's blog](www.
 
 🔭 I’m currently working on CompassCal.
 
-🌱 I’m learning how to create desktop apps.
+🌱 I’m currently learning how to make desktop apps with Electron.js
 
-🤔 I’m looking for help with creating gui with C# & .NET.
+🤔 I’m looking for help with designing gui.
 
 <br>
 <br>
