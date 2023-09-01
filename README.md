@@ -2,7 +2,7 @@
 
 I'm __Reacto__, an aspiring developer that persues coding to express my ideas.
 
-You can view my blog too see what I'm currently working on. [reacto's blog](www.blog.reacto.dev)
+You can view my blog too see what I'm currently working on. www.reacto.dev
 <br>
 <br>
 
