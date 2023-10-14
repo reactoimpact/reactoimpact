@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm __Reacto__, a aspiring developer that persues coding to express my ideas.
+I'm __Reacto__, an aspiring developer that persues coding to express my ideas.
 
 You can view my blog too see what I'm currently working on: [reacto.dev](https://reacto.dev/) (in progress)
 <br>
